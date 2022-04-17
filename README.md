@@ -18,3 +18,5 @@ Khalil Nijaoui
 
 [11] J. Brownlee, “How to configure image data augmentation in Keras,” Machine Learning Mastery, 12-Apr-2019. [Online]. Available: https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/. [Accessed: 05-Apr-2022]. 
 
+[12] K. Team, “Keras Documentation: Image data preprocessing,” Keras. [Online]. Available: https://keras.io/api/preprocessing/image/. [Accessed: 05-Apr-2022]. 
+
